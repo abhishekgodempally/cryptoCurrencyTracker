@@ -1,0 +1,37 @@
+.currency-item-container {
+  padding: 10px;
+}
+
+.logo-name-container {
+  display: flex;
+}
+
+.logo-img {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+}
+
+.currency-name {
+  font-size: 12px;
+  color: azure;
+  font-family: 'Roboto';
+  margin-left: 14px;
+}
+
+.usd-euro-container {
+  display: flex;
+}
+.usd-val {
+  font-size: 12px;
+  color: azure;
+  font-family: 'Roboto';
+  margin-left: 14px;
+}
+
+.euro-val {
+  font-size: 12px;
+  color: azure;
+  font-family: 'Roboto';
+  margin-left: 14px;
+}
